@@ -8,5 +8,5 @@ int main(){
 
     int extractFirstDigit = number / 10;
 
-    printf("The fiest digit of %d is %d", number, extractFirstDigit);
+    printf("The first digit of %d is %d", number, extractFirstDigit);
 }
